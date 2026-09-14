@@ -1,0 +1,4 @@
+# If you do not want your API key in a public GitHub repository,
+# rename config.js to config.local.js and add the key there.
+# config.js
+.DS_Store
